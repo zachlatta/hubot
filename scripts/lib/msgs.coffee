@@ -18,4 +18,10 @@ messages['name_reminders'] = [
   "No hackEDU here! We're Hack Club now!"
 ]
 
+messages['welcome'] = [
+  "You're welcome!",
+  "My pleasure!",
+  "no worries",
+  "don't mention it :-)"]
+
 module.exports = messages
